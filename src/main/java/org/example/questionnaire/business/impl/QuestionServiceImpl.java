@@ -12,7 +12,7 @@ import org.example.questionnaire.dataAccess.*;
 import org.example.questionnaire.dtos.request.QuestionRequest;
 import org.example.questionnaire.model.UserLogin;
 import org.example.questionnaire.model.abstracts.BaseQuestion;
-import org.example.questionnaire.model.concretes.*;
+import org.example.questionnaire.model.concretes.questions.*;
 import org.springframework.stereotype.Service;
 
 @Service

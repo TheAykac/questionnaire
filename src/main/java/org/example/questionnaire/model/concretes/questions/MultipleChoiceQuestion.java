@@ -1,4 +1,4 @@
-package org.example.questionnaire.model.concretes;
+package org.example.questionnaire.model.concretes.questions;
 
 import jakarta.persistence.*;
 import lombok.Getter;

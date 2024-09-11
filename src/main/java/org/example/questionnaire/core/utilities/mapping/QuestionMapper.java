@@ -2,7 +2,7 @@ package org.example.questionnaire.core.utilities.mapping;
 
 import lombok.RequiredArgsConstructor;
 import org.example.questionnaire.dtos.request.QuestionRequest;
-import org.example.questionnaire.model.concretes.*;
+import org.example.questionnaire.model.concretes.questions.*;
 import org.mapstruct.Mapper;
 import org.mapstruct.Mapping;
 import org.mapstruct.factory.Mappers;
